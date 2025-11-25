@@ -5,7 +5,7 @@ Built an AI-powered system to structure anonymized medical transcription data us
 
 # Key Features & Techniques:
 
-  Extracted age, medical specialty, and recommended treatment from raw transcription text using OpenAI API.
+	Extracted age, medical specialty, and recommended treatment from raw transcription text using OpenAI API.
   Mapped recommended treatments to ICD codes for standardized medical classification.
   Stored structured outputs in a pandas DataFrame for easy querying and downstream analytics.
   Implemented prompt engineering for accurate entity extraction and classification.
